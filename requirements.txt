@@ -1,0 +1,9 @@
+# Hello World MCP Server Dependencies
+# Model Context Protocol library for Python
+mcp>=1.0.0
+
+# Standard library modules used:
+# - asyncio (built-in)  
+# - datetime (built-in)
+# - json (built-in)
+# - sys (built-in)
